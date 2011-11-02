@@ -1,4 +1,4 @@
-= Usage
+# Usage
 
 	sage: attach "hexgraph.sage"
 	sage: g = HexGraph(10,10)
